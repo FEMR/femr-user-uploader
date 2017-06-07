@@ -26,3 +26,4 @@ mv /path/to/accounts.csv .
 
 ## Disclaimer:
 * This has only been tested with perfect CSV files that fit the rules in the formatting section above. No idea what happens when SHTF
+* execute_users.sh has the fEMR URI hard coded in. It needs to change based on your target
