@@ -17,6 +17,8 @@ Every single time a new team uses fEMR they have a ton of users to add and it's 
 
 ## Usage example:
 ```Shell
+cd /path/to/femr-user-uploader
+mv /path/to/accounts.csv .
 ./buy_cookies.rb -u admin -p admin -f cookies.txt -i http://localhost:9000
 ./execute_users.sh
 ./cleanup.rb -f cookies.txt
