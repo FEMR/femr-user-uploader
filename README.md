@@ -1,4 +1,4 @@
-# The automated fEMR user entry system from heaven version 0.1
+# The automated fEMR user entry system from heaven
 Every single time a new team uses fEMR they have a ton of users to add and it's really annoying. 
 
 ## Depenencies
